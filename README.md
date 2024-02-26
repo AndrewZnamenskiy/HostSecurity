@@ -26,8 +26,11 @@
 **Подготовка**
 
 Установка: `sudo apt install ecryptfs-utils`
+
 Создание нового пользователя: `sudo adduser --encrypt-home crypto`
+
 Миграция домашнего каталога пользователя: `user@user:~$ sudo ecryptfs-migrate-home -u crypto`
+
 Информация для восстановления: `user@user:~$ ecryptfs-unwrap-passphrase`
 
 #### Скриншот 1:
@@ -58,16 +61,22 @@
 **Подготовка**
 
 Установка утилиты разметки диска:  `sudo apt install parted`
+
 Установка LUKS:  `sudo apt-get install cryptsetup`
+
 Проверка установки: `cryptsetup --version`
+
 Подготовка раздела (luksFormat): `sudo cryptsetup -y -v --type luks2 luksFormat /dev/sdb1`
+
 Монтирование раздела: 
-		       `sudo cryptsetup luksOpen /dev/sdb1 disk`
-		       `ls /dev/mapper/disk`
+		       ```
+	 	       sudo cryptsetup luksOpen /dev/sdb1 disk
+		       ls /dev/mapper/disk```
 
 Форматирование раздела:
-		        `sudo dd if=/dev/zero of=/dev/mapper/disk`
-			`sudo mkfs.ext4 /dev/mapper/disk`
+			```
+		         sudo dd if=/dev/zero of=/dev/mapper/disk
+			sudo mkfs.ext4 /dev/mapper/disk```
 
 
 #### Скриншот 1:
@@ -88,4 +97,6 @@
 #### Скриншот 4:
 
 ![Commit Task2](https://github.com/AndrewZnamenskiy/HostSecurity/blob/main/img/task2p4.png)
+
+
 
