@@ -29,9 +29,9 @@
 
 Создание нового пользователя: `sudo adduser --encrypt-home crypto`
 
-Миграция домашнего каталога пользователя: `user@user:~$ sudo ecryptfs-migrate-home -u crypto`
+Миграция домашнего каталога пользователя: `sudo ecryptfs-migrate-home -u crypto`
 
-Информация для восстановления: `user@user:~$ ecryptfs-unwrap-passphrase`
+Информация для восстановления: `ecryptfs-unwrap-passphrase`
 
 #### Скриншот 1:
 
@@ -62,7 +62,7 @@
 
 Установка утилиты разметки диска:  `sudo apt install parted`
 
-Установка LUKS:  `sudo apt-get install cryptsetup`
+Установка LUKS:  `sudo apt install cryptsetup`
 
 Проверка установки: `cryptsetup --version`
 
