@@ -32,22 +32,22 @@
 
 #### Скриншот 1:
 
-![Commit Task1](https://github.com/AndrewZnamenskiy/NetSecurity/blob/main/img/task1p1.png)
+![Commit Task1](https://github.com/AndrewZnamenskiy/HostSecurity/blob/main/img/task1p1.png)
 
 
 #### Скриншот 2:
 
-![Commit Task1](https://github.com/AndrewZnamenskiy/NetSecurity/blob/main/img/task1p2.png)
+![Commit Task1](https://github.com/AndrewZnamenskiy/HostSecurity/blob/main/img/task1p2.png)
 
 
 #### Скриншот 3:
 
-![Commit Task1](https://github.com/AndrewZnamenskiy/NetSecurity/blob/main/img/task1p3.png)
+![Commit Task1](https://github.com/AndrewZnamenskiy/HostSecurity/blob/main/img/task1p3.png)
 
 
 #### Скриншот 4:
 
-![Commit Task1](https://github.com/AndrewZnamenskiy/NetSecurity/blob/main/img/task1p4.png)
+![Commit Task1](https://github.com/AndrewZnamenskiy/HostSecurity/blob/main/img/task1p4.png)
 
 
 ---
@@ -72,20 +72,20 @@
 
 #### Скриншот 1:
 
-![Commit Task2](https://github.com/AndrewZnamenskiy/NetSecurity/blob/main/img/task2p1.png)
+![Commit Task2](https://github.com/AndrewZnamenskiy/HostSecurity/blob/main/img/task2p1.png)
 
 
 #### Скриншот 2:
 
-![Commit Task2](https://github.com/AndrewZnamenskiy/NetSecurity/blob/main/img/task2p2.png)
+![Commit Task2](https://github.com/AndrewZnamenskiy/HostSecurity/blob/main/img/task2p2.png)
 
 
 #### Скриншот 3:
 
-![Commit Task2](https://github.com/AndrewZnamenskiy/NetSecurity/blob/main/img/task2p3.png)
+![Commit Task2](https://github.com/AndrewZnamenskiy/HostSecurity/blob/main/img/task2p3.png)
 
 
 #### Скриншот 4:
 
-![Commit Task2](https://github.com/AndrewZnamenskiy/NetSecurity/blob/main/img/task2p4.png)
+![Commit Task2](https://github.com/AndrewZnamenskiy/HostSecurity/blob/main/img/task2p4.png)
 
