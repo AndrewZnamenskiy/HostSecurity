@@ -71,12 +71,14 @@
 Монтирование раздела: 
 		       ```
 	 	       sudo cryptsetup luksOpen /dev/sdb1 disk
-		       ls /dev/mapper/disk```
+		       ls /dev/mapper/disk
+	 ```
 
 Форматирование раздела:
 			```
 		         sudo dd if=/dev/zero of=/dev/mapper/disk
-			sudo mkfs.ext4 /dev/mapper/disk```
+			sudo mkfs.ext4 /dev/mapper/disk
+   ```
 
 
 #### Скриншот 1:
